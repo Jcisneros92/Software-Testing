@@ -1,4 +1,4 @@
-**Testing framework: JUnit**
+**Testing framework: JUnit 4**
 
 **Programming Language: JAVA**
 
